@@ -1,0 +1,14 @@
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\LinearEquationsSystems-master\LinearEquationsSystems-master\bin\Debug\Project 02 Linear Equations Systems.exe.config
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\LinearEquationsSystems-master\LinearEquationsSystems-master\bin\Debug\Project 02 Linear Equations Systems.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\LinearEquationsSystems-master\LinearEquationsSystems-master\bin\Debug\Project 02 Linear Equations Systems.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\LinearEquationsSystems-master\LinearEquationsSystems-master\obj\Debug\Project 02 Linear Equations Systems.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\LinearEquationsSystems-master\LinearEquationsSystems-master\obj\Debug\Project 02 Linear Equations Systems.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\LinearEquationsSystems-master\LinearEquationsSystems-master\obj\Debug\Project 02 Linear Equations Systems.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\LinearEquationsSystems-master\LinearEquationsSystems-master\obj\Debug\Project 02 Linear Equations Systems.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project_02_LinearEquationsSystems\LinearEquationsSystems-master\bin\Debug\Project 02 Linear Equations Systems.exe.config
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project_02_LinearEquationsSystems\LinearEquationsSystems-master\bin\Debug\Project 02 Linear Equations Systems.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project_02_LinearEquationsSystems\LinearEquationsSystems-master\bin\Debug\Project 02 Linear Equations Systems.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project_02_LinearEquationsSystems\LinearEquationsSystems-master\obj\Debug\Project 02 Linear Equations Systems.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project_02_LinearEquationsSystems\LinearEquationsSystems-master\obj\Debug\Project 02 Linear Equations Systems.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project_02_LinearEquationsSystems\LinearEquationsSystems-master\obj\Debug\Project 02 Linear Equations Systems.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project_02_LinearEquationsSystems\LinearEquationsSystems-master\obj\Debug\Project 02 Linear Equations Systems.pdb
